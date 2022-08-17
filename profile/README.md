@@ -6,6 +6,7 @@
 
 🌈 Impressum:
 ❖ Mảng điện tử công suất: thiết kế hệ nhúng điều khiển xe điện, điều khiển pin, pin mặt trời… VD: Thiết kế chế tạo xe lăn điện cho người tàn tật (cùng thầy Khoa Cơ Khí).
+
 ❖ Mảng hệ nhúng cho Robot: thiết kế thuật toán điều khiển, machine learning, trí tuệnhân tạo, truyền số liệu, xử lý tín hiệu cho cánh tay robot.
 ❖ Lập trình xử lý ảnh trên điện thoại: nâng cấp mã nguồn mở để tạo ứng dụng nhận dạng trang sách phục vụ người mù chụp ảnh và đọc sách.
 ❖ Mảng thiết kế IC: Thiết kế IC chuyển đổi năng lượng (cùng với lab BKIC)
