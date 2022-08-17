@@ -1,4 +1,4 @@
-## Hi there 👋
+## Some information about us 👀
 
 🙋‍♀️ Signal Processing and Radio Communication Laboratory  
 🧙 Instructor: Ph.D. Huy-Dung Han  
