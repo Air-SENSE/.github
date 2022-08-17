@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🙋‍♀️ This is a Project about STEM, IOT and Nature
+
 <!--
 
 **Here are some ideas to get you started:**
