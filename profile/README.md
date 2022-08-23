@@ -4,7 +4,7 @@
 🧙 Instructor: Ph.D. Huy-Dung Han  
 👩‍💻 Research Orientation: focusing on issues of applying science and technology to social and educational projects  
 
-:
+The documentation AirSENSE provides on github includes:
 * AirSENSE Version
   * AirSENSE Luxury: [Luxury V1.0](https://github.com/Air-SENSE/AirSENSE-Luxury)
   * AirSENSE indoor: [AirSENSE V3.0](https://github.com/Air-SENSE/AirSENSE-V3.0) - [AirSENSE V2.1](https://github.com/Air-SENSE/AirSENSE-V2.1)
