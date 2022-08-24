@@ -6,9 +6,9 @@
 
 The documentation AirSENSE provides on github includes:
 * AirSENSE Version
-  * AirSENSE Luxury: [Luxury V1.0](https://github.com/Air-SENSE/AirSENSE-Luxury)
-  * AirSENSE indoor: [AirSENSE V3.0](https://github.com/Air-SENSE/AirSENSE-V3.0) - [AirSENSE V2.1](https://github.com/Air-SENSE/AirSENSE-V2.1)
-  * AirSENSE outdoor: [AirSENSE V1.0 Outdoor](https://github.com/Air-SENSE/AirSENSE-V1.0-Outdoor)
+  * AirSENSE-Outdoor: [AirSENSE V1.0 Outdoor](https://github.com/Air-SENSE/AirSENSE-V1.0-Outdoor)
+  * AirSENSE-Indoor: [Luxury V1.0](https://github.com/Air-SENSE/AirSENSE-Luxury) - [AirSENSE V3.0](https://github.com/Air-SENSE/AirSENSE-V3.0) - [AirSENSE V2.1](https://github.com/Air-SENSE/AirSENSE-V2.1)
+  * AirSENSE-Mobile: 
 * AirSENSE Server
   * [airsense.vn](http://airsense.vn/)
 * Documentation
