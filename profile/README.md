@@ -1,5 +1,5 @@
 ## 🤗 Welcome to the **AirSENSE** open source on GitHUB!
-
+Some infomation about us 😎
 🙋‍♀️ Signal Processing and Radio Communication Laboratory  
 🧙 Instructor: Ph.D. Huy-Dung Han  
 👩‍💻 Research Orientation: focusing on issues of applying science and technology to social and educational projects  
